@@ -159,7 +159,7 @@
     "prom-client": "^15.1.0",
     "qs": "^6.11.1",
     "strict-event-emitter-types": "^2.0.0",
-    "systeminformation": "^5.22.9",
+    "systeminformation": "^5.23.8",
     "uint8arraylist": "^2.4.7",
     "xxhash-wasm": "1.0.2"
   },
